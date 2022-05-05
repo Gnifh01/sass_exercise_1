@@ -78,7 +78,6 @@ div section {
   align-items: center;
   text-align: center;
   margin: 0rem 3rem;
-  border: 1px solid blue;
 }
 div section article {
   display: flex;
